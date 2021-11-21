@@ -5,7 +5,7 @@
 
 body {
   background-color: #81a69b;
-  background-image: url("/images/wallpaper.jpg");
+  background-image: url("images/wallpaper.jpg");
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 #heading {
-  background-image: url("/images/image-logo.png");
+  background-image: url("images/image-logo.png");
   filter: brightness(150%);
   width: 279px;
   height: 76px;
